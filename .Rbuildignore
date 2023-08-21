@@ -1,2 +1,3 @@
 ^test\.pkgdown\.Rproj$
 ^\.Rproj\.user$
+^LICENSE\.md$
