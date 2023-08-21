@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of test.pkgdown is to …
+The goal of test.pkgdown is to test gh-pages automatic behavior.
 
 ## Installation
 
